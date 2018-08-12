@@ -1,0 +1,38 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "War Today"
+Text = Australians and Emus set their differences aside to go to war together.
+
+[Text 1]
+Speaker = "War Today"
+Text = After the war has ended, the big-feathered menaces turned on their allies and started the second Emu war.
+
+[Text 1]
+Speaker = "War Today"
+Text = Historians will have to decide if this war will later become known as World War 3.
+
+
+[Text 1]
+Speaker = "War Today"
+Text = Population %1 -500.000.000, %2 -400.000.000!
+
+[Text 1]
+Speaker = "War Today"
+Text = Growth %1 +1%, %2 +4%!
+
+
+[War]
+pop1 = -500000000
+pop2 = -400000000
+growth1 = 1
+growth2 = 4
+
+
+[World]

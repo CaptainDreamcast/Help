@@ -1,0 +1,38 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = I think this is the perfect place for a Romance of the three Kingdoms reference.
+
+[Text 1]
+Speaker = "A."
+Text = However, I never read that. I read some of Dragonball Z, so I'll have to wait until that comes along.
+
+
+[Text 1]
+Speaker = "A."
+Text = So yeah, it was just like in that book, whatever happened in there.
+
+[Text 1]
+Speaker = "A."
+Text = Population %1 -200.000.000, %2 -400.000.000!
+
+[Text 1]
+Speaker = "A."
+Text = Growth %1 +1%, %2 +3%!
+
+
+[War]
+pop1 = -200000000
+pop2 = -400000000
+growth1 = 1
+growth2 = 3
+
+
+[World]

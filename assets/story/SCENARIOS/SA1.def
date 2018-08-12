@@ -1,0 +1,25 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = The ever-resourceful Illuminati emptied a watter bottle in one of those slum things on the hills.
+
+[Text 1]
+Speaker = "A."
+Text = This caused a giant earthslide, obliterating the entire metropolis.
+
+[Text 1]
+Speaker = "A."
+Text = It also wasted food, this was all-around pretty darn evil! Population -400.000.000!
+
+
+[Population]
+value = -400000000 
+
+[World]

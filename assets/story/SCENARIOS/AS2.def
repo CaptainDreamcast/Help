@@ -1,0 +1,30 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "East Asian Marketing Company"
+Text = In an effort to rebrand, the government announced a new set of fortune cookies rich with ancient knowledge.
+
+[Text 1]
+Speaker = "East Asian Marketing Company"
+Text = Due to these fortune cookies, school children around the continent became incredibly smug and arrogant.
+
+
+[Text 1]
+Speaker = "East Asian Marketing Company"
+Text = Back then they used to dab on each other, now they hold philosophical cookie debates. Progress or decay?
+
+[Text 1]
+Speaker = "East Asian Marketing Company"
+Text = Growth -3%!
+
+
+[Growth]
+value = -3
+
+[World]

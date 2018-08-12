@@ -1,0 +1,25 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "United Anti-Natal Front"
+Text = Baby making education was removed from the curriculum.
+
+[Text 1]
+Speaker = "United Anti-Natal Front"
+Text = With nobody knowing how to make kids, they can't make any!
+
+
+[Text 1]
+Speaker = "United Anti-Natal Front"
+Text = Genius! Growth -1%!
+
+[Growth]
+value = -1
+
+[World]

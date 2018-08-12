@@ -1,0 +1,64 @@
+[Header]
+Sprites = story/INTRO/OVER.sff
+
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = The Illuminati - mostly you - failed to reduce the world's population.
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = "A."
+Text = As the earth reached critical capacities, it exploded, because this looks pretty cool.
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = "A."
+Text = Thankfully, as everyone knows, we have a second earth for use if our earth becomes too polluted or populated or boring.
+
+[Text 1]
+Speaker = "A."
+Text = So everyone just migrated there.
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "A."
+Text = The Illuminati held no control over this new world.
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = "A."
+Text = As a side effect, the M*necraft Let's Plays we thought were dead made a comeback.
+
+[Text 1]
+Speaker = "A."
+Text = Interest in indie video game productions was completely extinguished.
+
+[Text 1]
+Speaker = "BAD END:"
+Text = YOU CAUSED THE INDIEPOCALYPSE (and real apocalypse, but eh).
+
+
+
+
+
+
+[Title]

@@ -1,0 +1,31 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Antarctic board of educators"
+Text = Summer holiday was found to improve scholastic ability. 
+
+[Text 1]
+Speaker = "Antarctic board of educators"
+Text = It is currently being introduced to the Antarctis via a giant heat ray.
+
+
+[Text 1]
+Speaker = "Antarctic board of educators"
+Text = Protest from Greenpeace fell silent after unorthodox use of the heat ray.
+
+[Text 1]
+Speaker = "Antarctic board of educators"
+Text = Growth: -4%!
+
+
+
+[Growth]
+value = -4
+
+[World]

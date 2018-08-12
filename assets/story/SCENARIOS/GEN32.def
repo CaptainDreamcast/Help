@@ -1,0 +1,36 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "War Today"
+Text =  Due to negative popular opinion, tomorrow's war is officially canceled.
+
+[Text 1]
+Speaker = "War Today"
+Text =  During celebrations, factions of peace activists from the two countries started fighting.
+
+[Text 1]
+Speaker = "War Today"
+Text =  Apparently the conflict is still heating up with some predicting an armed conflict.
+
+
+[Text 1]
+Speaker = "War Today"
+Text =  Population %1 -200.000.000, %2 -200.000.000!
+
+[Text 1]
+Speaker = "War Today"
+Text =  Growth %1 +4%, %2 +4%!
+
+[War]
+pop1 = -200000000
+pop2 = -200000000
+growth1 = 4
+growth2 = 4
+
+[World]

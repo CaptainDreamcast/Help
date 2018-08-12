@@ -1,0 +1,28 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Mr. Gore's Yo*tube Channel"
+Text = I told you, I warned you that Global Warming was real. But you didn't listen.
+
+[Text 1]
+Speaker = "Mr. Gore's Yo*tube Channel"
+Text = Now all the penguins will die.
+
+[Text 1]
+Speaker = "Mr. Gore's Yo*tube Channel"
+Text = ... Humans? No, those can't fly.
+
+[Text 1]
+Speaker = "Mr. Gore's Yo*tube Channel"
+Text = Population -300000000!
+
+[Population]
+value = -300000000 
+
+[World]

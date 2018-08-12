@@ -1,0 +1,28 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "DNN"
+Text = Terrorists tried to kidnap all the planes in the US.
+
+[Text 1]
+Speaker = "DNN"
+Text = They failed, but plane afficionados and terrorism afficionados within the country lost the will to live.
+
+[Text 1]
+Speaker = "DNN"
+Text = According to investigators, they were not even terrorists, just regular plane inspectors.
+
+[Text 1]
+Speaker = "DNN"
+Text = Population -100.000.000, Usable Planes -100.000!
+
+[Population]
+value = -100000000 
+
+[World]

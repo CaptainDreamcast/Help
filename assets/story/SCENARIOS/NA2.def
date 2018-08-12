@@ -1,0 +1,24 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "DNN"
+Text = Last month, the fast food brand McD*nalds has sponsored an entire range of schools!
+
+[Text 1]
+Speaker = "DNN"
+Text = It only taught kids to eat more unhealthy food though.
+
+[Text 1]
+Speaker = "DNN"
+Text = Now that more people are obese, there is less procreation! Hooray! Growth -2%!
+
+[Growth]
+value = -2
+
+[World]

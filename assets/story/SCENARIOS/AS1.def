@@ -1,0 +1,28 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Water Watcher"
+Text = Yesterday, a tunami swept over all of China and most of Russia, almost reaching Europe.
+
+[Text 1]
+Speaker = "Water Watcher"
+Text = Chinese officials are currently in talks whether to use water power as a future power source.
+
+[Text 1]
+Speaker = "Water Watcher"
+Text = While they were talking, another tsunami swept the nation. Unlucky!
+
+[Text 1]
+Speaker = "Water Watcher"
+Text = Population -600000000
+
+[Population]
+value = -600000000 
+
+[World]

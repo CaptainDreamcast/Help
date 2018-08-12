@@ -1,0 +1,29 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Psychology Month"
+Text = This weekend a local lion fell off a cliff and was trampled to death by a herd of bulls.
+
+[Text 1]
+Speaker = "Psychology Month"
+Text = It is unknown which lion will rule the Pride lands now.
+
+[Text 1]
+Speaker = "Psychology Month"
+Text = We were unable to contact the talking bird Zuzu for a comment.
+
+
+[Text 1]
+Speaker = "Psychology Month"
+Text = Population -500000000! Not related to the lion though.
+
+[Population]
+value = -500000000 
+
+[World]

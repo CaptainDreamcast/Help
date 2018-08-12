@@ -1,0 +1,37 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "War Today"
+Text = The great European offensive dissolved today, after the infighting got out of hand.
+
+[Text 1]
+Speaker = "War Today"
+Text = British soldiers complained about French soldiers insulting their tactical monocles.
+
+[Text 1]
+Speaker = "War Today"
+Text = Bullying is a capital crime, meaning most soldiers will face a death sentence when coming home.
+
+[Text 1]
+Speaker = "War Today"
+Text = Population %1 -300.000.000, %2 -200.000.000!
+
+[Text 1]
+Speaker = "War Today"
+Text = Growth %1 +4%, %2 +2%!
+
+
+[War]
+pop1 = -300000000
+pop2 = -200000000
+growth1 = 4
+growth2 = 2
+
+
+[World]

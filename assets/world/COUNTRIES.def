@@ -1,0 +1,105 @@
+[Country]
+name = "North America"
+topleft1 = 20,260
+bottomright1 = 292,509
+desc1 = "Originally, this continent used to be India, but after a prank gone too far, the name got changed."
+population = 1100000000
+growth = 2
+short = NA
+
+[Country]
+name = "South America"
+topleft1 = 166,571
+bottomright1 = 329,831
+topleft2 = 93,511
+bottomright2 = 166,581
+desc1 = "Metal G*ar Solid Peace Walker took place here, so we can confirm that there are"
+desc2 = "banana factories, lakes and nuclear warheads on this continent."
+population = 900000000
+growth = 3
+short = SA
+
+
+[Country]
+name = "Europe"
+color = 255,0,0
+desc1 = "Both rupee and puree are valid anagrams to be used in Scrabble."
+desc2 = "You never know when this information may save your life."
+desc3 = "There's also finns living here."
+population = 900000000
+growth = 4
+short = EU
+
+[Country]
+name = "Asia"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "Home of the great emperor Xapani Ma Xion. He invented a form of moving images of"
+desc2 = "drawn characters with huge eyes."
+desc3 = "In his honor, the technique was called \"Japanimation\" (later shortened to Anime)."
+population = 1200000000
+growth = 4
+short = AS
+
+[Country]
+name = "Africa"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "Long ago, people from the south took all the trees from the people from the north."
+desc2 = "This is why the north is full of deserts and the south has so many trees."
+desc3 = "Nobody seems to mind though."
+population = 1000000000
+growth = 3
+short = AF
+
+
+[Country]
+name = "Australia"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "Most people believe this to be the most dangerous place on earth."
+desc2 = Of course, this is a lie spread by the locals who don't like tourists.
+desc3 = "Three meter spiders are real, though."
+population = 1100000000
+growth = 3
+short = AU
+
+[Country]
+name = "Arctic or Antarctic"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "You might think this continent is irrelevant, but if you were to ask penguins,"
+desc2 = "most if not all of them would tell you this chunk of ice is the most important"
+desc3 = "place on earth."
+population = 1100000000
+growth = 2
+short = AN
+
+[Country]
+name = "Greenland"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "IT'S NOT GREEN AT ALL WHAT THE HECK, MAN"
+population = 0
+growth = 3
+
+[Country]
+name = "Atlantis"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "The legendary lost continent."
+desc2 = "As obesity rates skyrocketed, tectonic plates got pushed in and it resurfaced."
+desc3 = "Curiously, this spawned a trend of pro-Atlantis anti-anti-obesity activists."
+population = 0
+growth = 3
+
+
+[Country]
+name = "Madagascar"
+topleft1 = 583,176
+bottomright1 = 761,302
+desc1 = "Madagascar contains the largest skyscraper in the world with 10.000.000 stories."
+desc2 = "There used to be more, but the tower hit the moon and some of it came off."
+desc3 = "At least there's a moon colony now, so whatever."
+population = 0
+growth = 3

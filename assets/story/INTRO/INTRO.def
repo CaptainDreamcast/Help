@@ -1,0 +1,200 @@
+[Header]
+Sprites = story/INTRO/INTRO.sff
+
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = "The year is 20XX. Global warming, social issues and M*necraft Let's Plays are now a thing of the past."
+
+[Text 1]
+Speaker = "A."
+Text = "However, humanity still faces a lethal threat: Overpopulation."
+
+[Text 1]
+Speaker = "A."
+Text = "The United Nations are at a loss on how to solve this issue. The current world population is at more than 7 billion people."
+
+[Text 1]
+Speaker = "A."
+Text = "While the government's hands are tied, only one organization can save the day!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = "A."
+Text = "The Illuminati!! The ones pulling the world's strings behind the scenes!"
+
+[Text 1]
+Speaker = "A."
+Text = "Someone walking into you on the street but you try to avoid them and they try to avoid you?"
+
+[Text 1]
+Speaker = "A."
+Text = "The Illuminati."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = "A."
+Text = "The thing you wanted at the grocery store just sold out?"
+
+[Text 1]
+Speaker = "A."
+Text = "The Illuminati."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "A."
+Text = "Your Ludum Dare game getting 1 outta 5 stars?"
+
+[Text 1]
+Speaker = "A."
+Text = "That's right, it's us, the Illuminati as well."
+
+
+[Text 1]
+Speaker = "A."
+Text = "Only we can save the earth!"
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = "A."
+Text = "As Gandhi said: 'With great power comes great responsibility.'"
+
+[Text 1]
+Speaker = "A.A."
+Text = "D- did he say that? And more importantly, how do we depopulate the earth?"
+
+[Text 1]
+Speaker = "A."
+Text = "Our only choice is to ki-"
+
+[Image 1]
+Group = 1
+Item = 9
+
+[Text 1]
+Speaker = "A."
+Text = "Our only choice is to send everyone to the shadow dimension."
+
+[Text 1]
+Speaker = "A."
+Text = "We have three oprions:"
+
+[Image 1]
+Group = 1
+Item = 10
+
+[Text 1]
+Speaker = "A."
+Text = "Cause a disaster: This ki-"
+
+[Text 1]
+Speaker = "A."
+Text = "...removes people."
+
+[Image 1]
+Group = 1
+Item = 11
+
+[Text 1]
+Speaker = "A."
+Text = "Improve education: this reduces birth rates."
+
+[Image 1]
+Group = 1
+Item = 12
+
+[Text 1]
+Speaker = "A."
+Text = "Start a war between two regions: This removes people from both countries but increases birth rates."
+
+[Text 1]
+Speaker = "A.A."
+Text = Why?
+
+[Text 1]
+Speaker = "A."
+Text = ...
+
+[Text 1]
+Speaker = "A."
+Text = Moving on.
+
+[Text 1]
+Speaker = "A."
+Text = If either a region's or the world's population become too high, the game ends.
+
+[Text 1]
+Speaker = "A.A."
+Text = Game?
+
+[Text 1]
+Speaker = "A."
+Text = WORLD. I SAID WORLD.
+
+
+[Image 1]
+Group = 1
+Item = 13
+
+[Text 1]
+Speaker = "A."
+Text = Anyway, our goal is to bring the population down to a healthy one billion.
+
+[Text 1]
+Speaker = "A."
+Text = Like Gandhi said:
+
+[Image 1]
+Group = 1
+Item = 5
+
+
+[Text 1]
+Speaker = "A."
+Text = "Kill them all, A.A. Kill them all."
+
+[Text 1]
+Speaker = "A.A."
+Text = He never said that.
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = "A."
+Text = "Yes he did"
+
+[Text 1]
+Speaker = "A.A."
+Text = FINE, I'LL DO IT, JUST STOP WITH THE GANDHI QUOTES!
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = "A."
+Text = "No."
+
+
+
+[Title]

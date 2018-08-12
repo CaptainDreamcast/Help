@@ -1,0 +1,26 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = With its vast influence, the Illuminati removed ketchup from all stores in the continent.
+
+
+[Text 1]
+Speaker = "A."
+Text = The ensulting "Ketchup riots of 20XX" claimed more lives than both World Wars combined.
+
+
+[Text 1]
+Speaker = "A."
+Text = Condiments are a serious business: Population -600.000.000!
+
+[Population]
+value = -600000000 
+
+[World]

@@ -1,0 +1,28 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Principal Prickly's Prickleblog"
+Text = Kids in countries with longer winters perform better scholastically. 
+
+[Text 1]
+Speaker = "Principal Prickly's Prickleblog"
+Text = In order to ensure the best future for our children, the EU has decided to block sun rays completely.
+
+[Text 1]
+Speaker = "Principal Prickly's Prickleblog"
+Text = The eternal winter is a small price to pay for the smiles of our children.
+
+[Text 1]
+Speaker = "Principal Prickly's Prickleblog"
+Text = Growth -3%!
+
+[Growth]
+value = -3
+
+[World]

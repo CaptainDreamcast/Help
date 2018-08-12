@@ -1,0 +1,39 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "DNN"
+Text = North America holds the strongest military force in the world!
+
+
+[Text 1]
+Speaker = "DNN"
+Text = It is so powerful the population of our opposing country gave up before the war even started!
+
+
+[Text 1]
+Speaker = "DNN"
+Text = The North American army never arrived though, it crashed halfway. 
+
+[Text 1]
+Speaker = "DNN"
+Text = Population %1 -100.000.000, %2 -300.000.000!
+
+[Text 1]
+Speaker = "DNN"
+Text = Growth %1 +2%, %2 +3%!
+
+
+[War]
+pop1 = -100000000
+pop2 = -300000000
+growth1 = 2
+growth2 = 3
+
+
+[World]

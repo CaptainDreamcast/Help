@@ -1,0 +1,24 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Amazonas News"
+Text = 20XX saw the grand opening of Amazonas university! 
+
+[Text 1]
+Speaker = "Amazonas News"
+Text = All the professors are Amazonians. It's just cosplay, but the marketing department told them to play along.
+
+[Text 1]
+Speaker = "Amazonas News"
+Text = Being tricked like this gives men unreasonable beauty standards! Growth -2%!
+
+[Growth]
+value = -2
+
+[World]

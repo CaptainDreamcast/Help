@@ -1,0 +1,29 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Weekly Emu Jump"
+Text = Last week, the popular manga Pr*son School was first introduced to the Australian public.
+
+[Text 1]
+Speaker = "Weekly Emu Jump"
+Text = This appears to have triggered the deep-seated Australian penal instincts and led to grave consequences.
+
+[Text 1]
+Speaker = "Weekly Emu Jump"
+Text = Society will change tremendously, that is the only thing we know for sure right now.
+
+[Text 1]
+Speaker = "Weekly Emu Jump"
+Text = Growth -5%!
+
+
+[Growth]
+value = -5
+
+[World]

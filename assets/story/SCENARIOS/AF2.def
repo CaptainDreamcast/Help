@@ -1,0 +1,33 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Supervillain league of Librarians"
+Text = The newly rebuilt library of Alexandria caught on fire during its opening ceremony.
+
+[Text 1]
+Speaker = "Supervillain league of Librarians"
+Text = Mysterious donor Mr. A tripped over a power wire and caused the expensive carpet to catch on fire.
+
+[Text 1]
+Speaker = "Supervillain league of Librarians"
+Text = The loss in knowledge is considered the biggest in history.
+
+
+
+
+[Text 1]
+Speaker = "Supervillain league of Librarians"
+Text = Knowledge Growth: -4%!
+
+
+
+[Growth]
+value = -4
+
+[World]

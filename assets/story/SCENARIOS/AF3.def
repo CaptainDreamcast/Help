@@ -1,0 +1,39 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Conspiracy Cocktail"
+Text = Africa uses its new power source of Shakanium to wage war.
+
+
+[Text 1]
+Speaker = "Conspiracy Cocktail"
+Text = Only known to the upper brass of the military, Shakanium is radioactive and causes permanent damage to users.
+
+
+[Text 1]
+Speaker = "Conspiracy Cocktail"
+Text = Radioactivity is invisible, so it can't be THAT bad, right?.
+
+
+[Text 1]
+Speaker = "Conspiracy Cocktail"
+Text = Population %1 -500.000.000, %2 -400.000.000!
+
+[Text 1]
+Speaker = "Conspiracy Cocktail"
+Text = Growth %1 +3%, %2 +3%!
+
+
+[War]
+pop1 = -500000000
+pop2 = -400000000
+growth1 = 3
+growth2 = 3
+
+[World]

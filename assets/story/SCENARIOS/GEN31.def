@@ -1,0 +1,50 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Dirty Journal"
+Text =  War is pretty boring, so the President immediately authorized the use of nukes.
+
+
+[Text 1]
+Speaker = "Dirty Journal"
+Text =  The other guys had nukes too, so the countries just nuked each other.
+
+
+
+[Text 1]
+Speaker = "Dirty Journal"
+Text =  It was a nuclear holocaust, but at least it wasn't boring.
+
+
+
+[Text 1]
+Speaker = "Dirty Journal"
+Text = That's what the President thought when he shambled along as a radioactive mutant in the remains of the capital.
+
+
+
+[Text 1]
+Speaker = "Dirty Journal"
+Text =  Population %1 -600.000.000, %2 -600.000.000!
+
+
+
+[Text 1]
+Speaker = "Dirty Journal"
+Text =  Growth %1 +3%, %2 +3%!
+
+[War]
+pop1 = -600000000
+pop2 = -600000000
+growth1 = 3
+growth2 = 3
+
+
+
+[World]

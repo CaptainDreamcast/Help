@@ -1,0 +1,29 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Windmills Weekly"
+Text = The long-predicted disaster finally happened: The Netherlands sunk into the sea.
+
+[Text 1]
+Speaker = "Windmills Weekly"
+Text = Apparently the cause was the Jump-on-tine-challenge which became viral during the past week.
+
+[Text 1]
+Speaker = "Windmills Weekly"
+Text = Luckily, the social natives involved already invented the take-a-selfie-while-drowning challenge.
+
+[Text 1]
+Speaker = "Windmills Weekly"
+Text = Population -400000000!
+
+
+[Population]
+value = -400000000 
+
+[World]

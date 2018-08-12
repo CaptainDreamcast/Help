@@ -1,0 +1,24 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Pharmacy Phacts"
+Text =  Scientists developed a drug that turns students into supergeniuses.
+
+[Text 1]
+Speaker = "Pharmacy Phacts"
+Text = However this drug also destroys their social skills and turns them into edgy people!
+
+[Text 1]
+Speaker = "Pharmacy Phacts"
+Text = Growth -2%!
+
+[Growth]
+value = -2
+
+[World]

@@ -1,0 +1,29 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "S. Irwin Memorial Magazine"
+Text = After his 1000-year-long slumber, Arefar, King of Spiders has awakened to take the planet.
+
+[Text 1]
+Speaker = "S.Irwin Memorial Magazine"
+Text = A local farmer happened upon the creature after a day of rampage and yelled (a direct quote): "F*ck off ya c*nt".
+
+[Text 1]
+Speaker = "S. Irwin Memorial Magazine"
+Text = This hurt Arefar's feelings, and he returned deep into the earth, vowing never to return.
+
+[Text 1]
+Speaker = "S. Irwin Memorial Magazine"
+Text = Population -300000000!
+
+
+[Population]
+value = -300000000 
+
+[World]

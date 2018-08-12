@@ -1,0 +1,39 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = Using secret mole people technology, we caused a huge eartquake!
+
+
+[Text 1]
+Speaker = "A."
+Text = However, this accelerated the shaker industry, making people live healthier lives.
+
+
+[Text 1]
+Speaker = "A."
+Text = Nobody died, what are the odds of that, haha. Can't win em all, eh? 
+
+[Text 1]
+Speaker = "A.A."
+Text = "!"
+
+[Text 1]
+Speaker = "A."
+Text = Just kidding!
+
+[Text 1]
+Speaker = "A."
+Text = Population -600.000.000!
+
+[Population]
+value = -600000000 
+
+
+[World]

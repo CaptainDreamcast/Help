@@ -1,0 +1,104 @@
+[Header]
+Sprites = story/INTRO/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "A."
+Text = I did it! I saved humanity!
+
+[Text 1]
+Speaker = "A.A."
+Text = Actually, it was me who-
+
+[Text 1]
+Speaker = "A."
+Text = Overpopulation, cured by the Illuminati! Eat that you other D-list secret societies.
+
+[Text 1]
+Speaker = "A."
+Text = Skull and Bones more like Skull and BORES.
+
+[Text 1]
+Speaker = "A.A."
+Text = So can I now have a single letter name? And am I getting paid? I'm glad for the unpaid internship but-
+
+[Text 1]
+Speaker = "A."
+Text = I sometimes ponder if this could have been avoided, you know? I'm a deep person.
+
+[Text 1]
+Speaker = "A.A."
+Text = We just killed nine billion people.
+
+[Text 1]
+Speaker = "A."
+Text = We cannot influence population numbers manually, but what we CAN do is watch how we live our lives.
+
+[Text 1]
+Speaker = "A.A."
+Text = No, you can't do this.
+
+[Text 1]
+Speaker = "A."
+Text = It's the little things. Saving water, recycling your trash, not littering... 
+
+[Text 1]
+Speaker = "A.A."
+Text = WE SPENT THE WHOLE GAME MURDERING PEOPLE!
+
+[Text 1]
+Speaker = "A."
+Text = Help your neighbours, be accepting of outsiders...
+
+[Text 1]
+Speaker = "A.A."
+Text = You can't just tack on a moral after all this!
+
+[Text 1]
+Speaker = "A."
+Text = Brush your teeth...
+
+[Text 1]
+Speaker = "A.A."
+Text = NOW IT'S NOT EVEN THE ORIGINAL MORAL!
+
+[Text 1]
+Speaker = "A."
+Text = Always remember, while it may be true that we as a species are...
+
+[Text 1]
+Speaker = "A.A."
+Text = Don't say it, please, don't say it.
+
+[Text 1]
+Speaker = "A."
+Text = RUNNING OUT OF SPACE
+
+[Text 1]
+Speaker = "A."
+Text = We can all do our best to take care of the planet. It's the only one we have.
+
+
+
+[Text 1]
+Speaker = "A.A."
+Text = That's it I'm joining the freemasons.
+
+[Text 1]
+Speaker = "A."
+Text = And most importantly, as Gandhi used to say:
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = "A."
+Text = "Thanks for playing!"
+
+[Title]

@@ -1,0 +1,41 @@
+[Header]
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "War Today"
+Text = South American forces engaged with the enemy and the war was going well.
+
+[Text 1]
+Speaker = "War Today"
+Text = Until one of the enemies sneezed. It was a cold against which the South American forced had no protection.
+
+[Text 1]
+Speaker = "War Today"
+Text = The infection transfered even to civilians an- ACHOO! 
+
+[Text 1]
+Speaker = "War Today"
+Text = OH GOD, PLEASE NO, I'M TOO YOUNG TO DIE! I ONLY JUST FINISHED NARRATOR SCHOOL!
+
+[Text 1]
+Speaker = "War Today"
+Text = Population %1 -400.000.000, %2 -300.000.000!
+
+[Text 1]
+Speaker = "War Today"
+Text = Growth %1 +2%, %2 +3%!
+
+
+[War]
+pop1 = -400000000
+pop2 = -300000000
+growth1 = 2
+growth2 = 3
+
+
+[World]
