@@ -42,3 +42,5 @@ windows/Debug/*
 *.ilk
 *.psess
 *.vspx
+
+assets.c

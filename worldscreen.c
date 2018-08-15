@@ -215,7 +215,7 @@ static void loadWorldPopulation() {
 }
 
 static void winCB(void* tCaller) {
-	setCurrentStoryDefinitionFile("story/INTRO/OUTRO.def", 1);
+	setCurrentStoryDefinitionFile("story/INTRO/OUTRO.def", 3);
 	setNewScreen(&StoryScreen);
 }
 
@@ -224,7 +224,7 @@ static void gotoWin() {
 }
 
 static void loseCB(void* tCaller) {
-	setCurrentStoryDefinitionFile("story/INTRO/OVER.def", 1);
+	setCurrentStoryDefinitionFile("story/INTRO/OVER.def", 3);
 	setNewScreen(&StoryScreen);
 }
 
@@ -552,7 +552,7 @@ static void gotoDisaster(void* tCaller) {
 		getGeneralPath(path, 1);
 	}
 
-	setCurrentStoryDefinitionFile(path, 3);
+	setCurrentStoryDefinitionFile(path, 5);
 	setNewScreen(&StoryScreen);
 }
 
@@ -568,7 +568,7 @@ static void gotoEducation(void* tCaller) {
 		getGeneralPath(path, 2);
 	}
 
-	setCurrentStoryDefinitionFile(path, 3);
+	setCurrentStoryDefinitionFile(path, 5);
 	setNewScreen(&StoryScreen);
 }
 
@@ -584,7 +584,7 @@ static void gotoWar(void* tCaller) {
 		getGeneralPath(path, 3);
 	}
 
-	setCurrentStoryDefinitionFile(path, 3);
+	setCurrentStoryDefinitionFile(path, 5);
 	setNewScreen(&StoryScreen);
 }
 
