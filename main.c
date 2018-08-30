@@ -48,8 +48,9 @@ int main(int argc, char** argv) {
 	setGameName("HELP");
 	setScreenSize(640, 480);
 	
-	initPrismWrapperWithConfigFile("data/config.cfg");
 	setMainFileSystem();	
+	initPrismWrapperWithConfigFile("data/config.cfg");
+
 	setFont("$/rd/fonts/segoe.hdr", "$/rd/fonts/segoe.pkg");
 
 	logg("Check framerate");
@@ -58,6 +59,7 @@ int main(int argc, char** argv) {
 		exitGame();
 	}
 
+	setMemoryHandlerCompressionActive();
 	addMugenFont(1, "3.fnt");
 	loadCountries();
 	setWrapperTitleScreen(&TitleScreen);
